@@ -6,6 +6,7 @@ let age =18;
 function checkAge(age){
     if(age>=18){
         console.log("eligible");
+        console.log("age is equal to 18");
     }
 }
 checkAge(age);
