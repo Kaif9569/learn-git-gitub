@@ -6,7 +6,6 @@ Git Commands:
 1.	Git Configration
   •	Git config –global user.name "YourName"
   •	Git config --global user.email "you@example.com"
-2.	Git Basics
   •	git init : Initialize a new Git repository in the current folder.
   •	git clone <url> : Copy an existing repository from GitHub/GitLab/etc.
   •	git status : Show changes (staged, unstaged, untracked files).
